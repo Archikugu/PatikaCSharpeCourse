@@ -91,6 +91,12 @@ namespace TypesAndVariables
 
             string hour = DateTime.Now.ToString("HH:mm");
             Console.WriteLine(hour);
+            int x = 1;
+
+            x++;
+
+            x = x + 4;
+            Console.WriteLine(x);
         }
     }
 }

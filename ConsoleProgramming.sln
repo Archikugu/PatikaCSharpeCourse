@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{66EC7F82-71CF-4CF6-9676-0C00A625324F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{F90768FE-01E6-4BF5-BB78-376C4FECB0E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{F90768FE-01E6-4BF5-BB78-376C4FECB0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{61B0479F-E772-4F3A-B1CE-7B7DC5664EFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F90768FE-01E6-4BF5-BB78-376C4FECB0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F90768FE-01E6-4BF5-BB78-376C4FECB0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F90768FE-01E6-4BF5-BB78-376C4FECB0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B0479F-E772-4F3A-B1CE-7B7DC5664EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B0479F-E772-4F3A-B1CE-7B7DC5664EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B0479F-E772-4F3A-B1CE-7B7DC5664EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B0479F-E772-4F3A-B1CE-7B7DC5664EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

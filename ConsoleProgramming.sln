@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{1565452D-C56F-4543-A1BD-086E53D4BDB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhilleForeach", "WhilleForeach\WhilleForeach.csproj", "{F6C48733-FC0F-4CC2-95C1-653D2AE65809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhilleForeach", "WhilleForeach\WhilleForeach.csproj", "{F6C48733-FC0F-4CC2-95C1-653D2AE65809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{23819357-8C2B-45D2-B84A-4A5E0202EB49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F6C48733-FC0F-4CC2-95C1-653D2AE65809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C48733-FC0F-4CC2-95C1-653D2AE65809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C48733-FC0F-4CC2-95C1-653D2AE65809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23819357-8C2B-45D2-B84A-4A5E0202EB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23819357-8C2B-45D2-B84A-4A5E0202EB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23819357-8C2B-45D2-B84A-4A5E0202EB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23819357-8C2B-45D2-B84A-4A5E0202EB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

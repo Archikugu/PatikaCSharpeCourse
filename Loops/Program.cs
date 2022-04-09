@@ -19,25 +19,25 @@ namespace Loops
              }
             */
             //1ile100 arasındaki tek ve çift sayılarının kendi içlerinde toplamı ekrana yazdır
-/*        int tekToplam = 0;
-            int ciftToplam = 0;
-            for (int i = 0; i <= 1000; i++)
-            {
-                if (i % 2 == 1)
-                {
-                    tekToplam += i; // tektoplam = tektoplam + i;
-                }
-                else
-                {
+            /*        int tekToplam = 0;
+                        int ciftToplam = 0;
+                        for (int i = 0; i <= 1000; i++)
+                        {
+                            if (i % 2 == 1)
+                            {
+                                tekToplam += i; // tektoplam = tektoplam + i;
+                            }
+                            else
+                            {
 
-                }
-                ciftToplam += i;
+                            }
+                            ciftToplam += i;
 
-            }
-            Console.WriteLine("Tek Toplam : " + tekToplam);
-            Console.WriteLine("Çift toplam : " + ciftToplam);
+                        }
+                        Console.WriteLine("Tek Toplam : " + tekToplam);
+                        Console.WriteLine("Çift toplam : " + ciftToplam);
 
- */
+             */
             //Break, Continue
             for (int i = 0; i < 10; i++)
             {
@@ -51,6 +51,14 @@ namespace Loops
                     continue;
                 Console.WriteLine(i);
             }
+
+
+
+
+
+
+
+
 
         }
     }

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversations", "TypeConversations\TypeConversations.csproj", "{4FFAE10B-CD35-4C70-8029-AF3FA2168563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{B1839463-D8AD-44A5-9E22-6F6BD16D7061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1839463-D8AD-44A5-9E22-6F6BD16D7061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1839463-D8AD-44A5-9E22-6F6BD16D7061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1839463-D8AD-44A5-9E22-6F6BD16D7061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1839463-D8AD-44A5-9E22-6F6BD16D7061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDataTypes", "Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{C9D1460C-1725-4B35-8DA7-8B8384F19DCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversations", "TypeConversations\TypeConversations.csproj", "{4FFAE10B-CD35-4C70-8029-AF3FA2168563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9D1460C-1725-4B35-8DA7-8B8384F19DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D1460C-1725-4B35-8DA7-8B8384F19DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D1460C-1725-4B35-8DA7-8B8384F19DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFAE10B-CD35-4C70-8029-AF3FA2168563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

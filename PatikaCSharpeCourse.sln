@@ -21,15 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeach", "WhileForeac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{BF038461-74DF-43CB-A7E8-AB740D870844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethod", "ArrayClassMethod\ArrayClassMethod.csproj", "{F83F2ACA-16DF-4929-B04B-24519E5197FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayClassMethod", "ArrayClassMethod\ArrayClassMethod.csproj", "{F83F2ACA-16DF-4929-B04B-24519E5197FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{9CB1958B-DBA2-48E9-9282-A0A1556F5643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{9CB1958B-DBA2-48E9-9282-A0A1556F5643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsOverloading", "MethodsOverloading\MethodsOverloading.csproj", "{4A38E307-2024-4A44-9CDE-A174B26D6B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsOverloading", "MethodsOverloading\MethodsOverloading.csproj", "{4A38E307-2024-4A44-9CDE-A174B26D6B22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExtension", "RecursiveExtension\RecursiveExtension.csproj", "{9870B16A-52A2-4721-A99F-FD10F45C52F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtension", "RecursiveExtension\RecursiveExtension.csproj", "{9870B16A-52A2-4721-A99F-FD10F45C52F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestionsTask1", "AlgorithmQuestionsTask1\AlgorithmQuestionsTask1.csproj", "{C509B37F-AFCE-4219-AAFF-4C70A293745C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmQuestionsTask1", "AlgorithmQuestionsTask1\AlgorithmQuestionsTask1.csproj", "{C509B37F-AFCE-4219-AAFF-4C70A293745C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C509B37F-AFCE-4219-AAFF-4C70A293745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C509B37F-AFCE-4219-AAFF-4C70A293745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C509B37F-AFCE-4219-AAFF-4C70A293745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

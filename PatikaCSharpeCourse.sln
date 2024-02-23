@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtension", "Recur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmQuestionsTask1", "AlgorithmQuestionsTask1\AlgorithmQuestionsTask1.csproj", "{C509B37F-AFCE-4219-AAFF-4C70A293745C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethods", "StringMethods\StringMethods.csproj", "{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "DateTimeAndMath\DateTimeAndMath.csproj", "{3AC9437A-4C13-46C9-90ED-58B580A9D5D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA57FAEA-0456-4A2A-AA8E-CDBF3A76CEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC9437A-4C13-46C9-90ED-58B580A9D5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC9437A-4C13-46C9-90ED-58B580A9D5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC9437A-4C13-46C9-90ED-58B580A9D5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC9437A-4C13-46C9-90ED-58B580A9D5D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

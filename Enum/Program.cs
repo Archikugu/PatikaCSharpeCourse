@@ -3,7 +3,7 @@
 namespace Enum
 { 
     // NOTES
-  // Sıralı verilerde kullanılıyor, ardışık indexlerde
+    // Sıralı verilerde kullanılıyor, ardışık indexlerde
     internal class Program
     {
        
@@ -14,11 +14,11 @@ namespace Enum
 
             int sicaklik = 32;
 
-            if (sicaklik <= (int)Hava_Durumu.Normal)
+            if (sicaklik <= (int)HavaDurumu.Normal)
                 Console.WriteLine("Dışarıya çıkmak için havanın biraz daha ısınmasını bekleyelim");
-            else if (sicaklik >= (int)Hava_Durumu.Sicak)
+            else if (sicaklik >= (int)HavaDurumu.Sicak)
                 Console.WriteLine("Dışarıya çıkmak için çok sıcak bir gün");
-            else if (sicaklik >= (int)Hava_Durumu.Normal && sicaklik <= (int)Hava_Durumu.Cok_Sicak)
+            else if (sicaklik >= (int)HavaDurumu.Normal && sicaklik <= (int)HavaDurumu.Cok_Sicak)
                 Console.WriteLine("Hadi dışarıya çıkalım");
         }
         enum Gunler
@@ -31,7 +31,7 @@ namespace Enum
             Cumartesi,
             Pazar
         }
-        enum Hava_Durumu
+        enum HavaDurumu
         {
             Soguk = 5,
             Normal = 20,

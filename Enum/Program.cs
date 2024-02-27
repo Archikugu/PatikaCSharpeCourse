@@ -18,7 +18,7 @@ namespace Enum
                 Console.WriteLine("Dışarıya çıkmak için havanın biraz daha ısınmasını bekleyelim");
             else if (sicaklik >= (int)HavaDurumu.Sicak)
                 Console.WriteLine("Dışarıya çıkmak için çok sıcak bir gün");
-            else if (sicaklik >= (int)HavaDurumu.Normal && sicaklik <= (int)HavaDurumu.Cok_Sicak)
+            else if (sicaklik >= (int)HavaDurumu.Normal && sicaklik <= (int)HavaDurumu.CokSicak)
                 Console.WriteLine("Hadi dışarıya çıkalım");
         }
         enum Gunler
@@ -36,7 +36,7 @@ namespace Enum
             Soguk = 5,
             Normal = 20,
             Sicak = 25,
-            Cok_Sicak = 30
+            CokSicak = 30
         }
     }
 }

@@ -12,6 +12,12 @@ namespace Inheritance
         {
             Console.WriteLine("Bitkiler Fotosentez Yapar.");
         }
+        public override void UyaranalaraTepki()
+        {
+            // base.UyaranalaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
+
 
     }
 
@@ -23,6 +29,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranalaraTepki();
         }
 
         public void TohumlaCogalma()

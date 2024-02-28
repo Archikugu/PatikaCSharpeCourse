@@ -12,7 +12,11 @@ namespace Inheritance
         {
             Console.WriteLine("Hayvanlar adaptasyon kurabilir");
         }
-
+        public override void UyaranalaraTepki()
+        {
+            base.UyaranalaraTepki();
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
+        }
     }
 
     public class Sürüngenler : Hayvanlar
@@ -23,6 +27,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranalaraTepki();
         }
 
         public void SurunerekHareketEtmek()
@@ -39,6 +44,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranalaraTepki();
         }
         public void Ucmak()
         {

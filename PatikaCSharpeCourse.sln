@@ -43,21 +43,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CollectionsQuestions", "CollectionsQuestions", "{7F60FE10-15F6-4242-BD87-9CEDE881CF3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask1", "CollectionsQuestions\CollectionsTask1\CollectionsTask1.csproj", "{59FAA7D8-E314-462E-9094-36465F554755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsTask1", "CollectionsQuestions\CollectionsTask1\CollectionsTask1.csproj", "{59FAA7D8-E314-462E-9094-36465F554755}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask3", "CollectionsQuestions\CollectionsTask3\CollectionsTask3.csproj", "{E81DBD65-9580-4F5C-85F2-687BAD2E0EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsTask3", "CollectionsQuestions\CollectionsTask3\CollectionsTask3.csproj", "{E81DBD65-9580-4F5C-85F2-687BAD2E0EDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask2", "CollectionsQuestions\CollectionsTask2\CollectionsTask2.csproj", "{F7D5B916-49AE-44F5-B38A-2118E5A9A6B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsTask2", "CollectionsQuestions\CollectionsTask2\CollectionsTask2.csproj", "{F7D5B916-49AE-44F5-B38A-2118E5A9A6B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{41AF0B3F-C43D-4CCA-ADD0-B992ADCEB58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{41AF0B3F-C43D-4CCA-ADD0-B992ADCEB58B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{34F66F8C-060D-4FA1-A4E2-45421E42B761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{34F66F8C-060D-4FA1-A4E2-45421E42B761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{A406FFCA-F8DF-4838-B2C8-C58EFC4751EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\StaticClass.csproj", "{A406FFCA-F8DF-4838-B2C8-C58EFC4751EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{E07B1377-C764-4B72-BA31-2F8D660BA566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{E07B1377-C764-4B72-BA31-2F8D660BA566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{D734B2D7-7F39-43E0-8B94-E970D0E6974B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{D734B2D7-7F39-43E0-8B94-E970D0E6974B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C13631BA-B839-441D-A5B9-B567DC527BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +175,10 @@ Global
 		{D734B2D7-7F39-43E0-8B94-E970D0E6974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D734B2D7-7F39-43E0-8B94-E970D0E6974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D734B2D7-7F39-43E0-8B94-E970D0E6974B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13631BA-B839-441D-A5B9-B567DC527BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13631BA-B839-441D-A5B9-B567DC527BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13631BA-B839-441D-A5B9-B567DC527BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13631BA-B839-441D-A5B9-B567DC527BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
